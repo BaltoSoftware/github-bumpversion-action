@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git config --global --add safe.directory /github/workspace
+
 # Configuration
 default_semvar_bump=${DEFAULT_BUMP:-patch}
 source=${SOURCE:-.}
