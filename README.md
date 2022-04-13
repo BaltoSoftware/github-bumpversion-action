@@ -1,3 +1,5 @@
+# TEMPORARY PROJECT WE'LL USE UNTIL PARENT PROJECT IS UPDATED: https://github.com/jaumann/github-bumpversion-action/issues/4
+
 # github-bumpversion-action
 
 A Github Action to use the [bumpversion](https://pypi.org/project/bumpversion/) application to bump and tag branches
