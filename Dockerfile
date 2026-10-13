@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM python:3.12-alpine
 LABEL maintainer="Jon Aumann"
 LABEL repository="https://github.com/jaumann/github-bumpversion-action"
 LABEL homepage="https://github.com/jaumann/github-bumpversion-action"
